@@ -21,7 +21,7 @@ Integrated-Retail-Analytics-for-Store-Optimization/
 
 ---
 
-## 📊 Datasets Used
+##  Datasets Used
 1. **Sales Data** → Weekly sales for all stores and departments.  
 2. **Features Data** → Includes economic/environmental factors like weather, fuel price, CPI, and unemployment.  
 3. **Stores Data** → Information about store type and size.  
